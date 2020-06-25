@@ -14,3 +14,8 @@ This exercise will be completed in class.
 * Storm Troopers have standing orders to call out to their fellow troopers every time they see a rebel
 * Plot armor allows characters to escape after being spotted. Storm Troopers have standing orders to call out to their fellow troopers every time a rebel escapes
 * Storm troopers have standing orders to shoot 4 times every time they see rebels, regardless of whether the rebels have escaped or not
+
+## Tips
+
+Use `mocha -w` to watch for changes for faster test iterations
+
